@@ -12,7 +12,7 @@ This repository contains a comprehensive Python script for dog breed identificat
 ## Code Structure
 
 - `Aygaz-Dog-Breed-Projem.ipynb`: The main Python script for the entire workflow.
-- `best_model_copy.h5`: Saved best-performing CNN model.
+- `best_model.h5`: Saved best-performing CNN model.
 - `README.md`: Project documentation.
 
 ## Usage
